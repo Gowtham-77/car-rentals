@@ -1,0 +1,82 @@
+
+.container{
+    width: auto;
+    margin: 0;
+    font-weight: 500;
+font-size: larger;
+}
+body{
+background-color:#F7DED0;
+    margin: 0;
+}
+.card{
+    display: inline-block;
+    margin: 50px;
+}
+.cars{
+    margin-left: 40px;
+    width: auto;
+    height: auto;
+}
+.foot{
+    background-color:#00ABE1;
+    margin: 0;
+    border-radius: 10px;
+    font-weight: 500;
+    font-size: medium;
+}
+.feature-icon {
+    width: 4rem;
+    height: 4rem;
+    border-radius: .75rem;
+  }
+#featured-3{
+    margin:0;
+    background-color: lightcyan;
+    margin-left: 35px;
+}
+.col1{
+    background-color: #E7E8D1;
+}
+.col2{
+    background-color: #A7BEAE;
+}
+.col3{
+    background-color: #D3C5E5;
+}
+.col{
+    padding-top: 20px;
+    border-radius: 20px;
+    padding-bottom: 50px;
+}
+.intro{
+    display: block;
+    margin: 40px;
+    font-style: italic;
+}
+.main{
+    background-image: url('./Baleno-card.jpg');
+}
+#re{
+    margin-left:500px;
+}
+ .heyy{
+    font-size: medium;
+    font-weight: 500;
+    padding-top: 60px;
+  padding-left:150px; ;
+ }
+.Us{
+margin-left: 500px;
+}
+.form-group{
+    margin-left: 400px;
+    margin-top: 30px;
+}
+.btn{
+    margin-left: 500px;
+    margin-top: 30px;
+}
+.form-control{
+    width:300px;
+}
